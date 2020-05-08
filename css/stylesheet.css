@@ -1,0 +1,27 @@
+#header {
+    float: right;
+    position: relative;
+  }
+
+  .top{
+    text-align: center;
+  }
+  
+  #xtudo {
+    display: flex; 
+    justify-content: space-between;
+    width: 320;
+    height: 250;
+  }
+
+  #h2 {
+
+    padding-left: 50px;
+  }
+
+  body {
+    background-color: slategray;
+  }
+
+
+  
